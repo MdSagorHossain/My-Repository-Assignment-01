@@ -15,6 +15,9 @@ h2{
     font-size: 30px;
     color: green;
 }
+p{
+    font-size: 25px;
+}
 .container-section{
     display: flex;
     padding-top: 50px;
@@ -30,7 +33,7 @@ h2{
 .button{
     text-decoration: none;
     padding: 10px 40px ;
-    border-radius: 5%;
+    border-radius: 20px;
     color: rgb(36, 5, 5);
     font-size: 30px;
     font-weight: 500;
